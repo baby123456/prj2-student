@@ -1,0 +1,11 @@
+#
+# Generated temporary files
+#
+
+atf/
+optee_os/
+uboot/
+kernel_phys_os/
+kernel_Dom0/
+kernel_DomU/
+apps/
